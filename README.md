@@ -3,4 +3,4 @@ The practices and sample codes related to [Coursera Algorithm](https://www.cours
 
 ### Sample code:
 
-- Quick Find: 
+- [Quick Find](https://github.com/Hassaniiii/CourseraAlgorithm1/tree/master/Qucik_Find)
